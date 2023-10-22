@@ -1,14 +1,15 @@
 {
     "plugins": [
         "octocat",
-        "remove-published-with-link"
+        "remove-published-with-link",
+        "youtube"
     ],
     "pluginsConfig": {
         "fontsettings": {
             "family": "serif"
         },
         "octocat": {
-            "url": "https://github.com/quacksouls/template"
+            "url": "https://github.com/quacksouls/ds3-farm-gears"
         }
     }
 }

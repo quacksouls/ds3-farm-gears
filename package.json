@@ -1,7 +1,7 @@
 {
-  "name": "template",
-  "version": "0.0.2",
-  "description": "A template for documentation",
+  "name": "ds3-farm-gears",
+  "version": "0.0.1",
+  "description": "Equipment for souls & items farming",
   "main": "index.js",
   "scripts": {
     "clean": "prettier --write README.md doc",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quacksouls/template.git"
+    "url": "git+https://github.com/quacksouls/ds3-farm-gears.git"
   },
   "author": "Duck McSouls",
   "license": "CC BY-NC-SA 4.0",
   "bugs": {
-    "url": "https://github.com/quacksouls/template/issues"
+    "url": "https://github.com/quacksouls/ds3-farm-gears/issues"
   },
-  "homepage": "https://github.com/quacksouls/template",
+  "homepage": "https://github.com/quacksouls/ds3-farm-gears",
   "devDependencies": {
     "eslint": "^8.50.0",
     "eslint-config-prettier": "^9.0.0",
@@ -27,6 +27,7 @@
     "gitbook-plugin-octocat": "^1.0.2",
     "gitbook-plugin-remove-published-with-link": "^1.0.3",
     "honkit": "^5.1.1",
+    "honkit-plugin-youtube": "^0.0.8",
     "markdownlint": "^0.31.1",
     "prettier": "^3.0.3"
   }
