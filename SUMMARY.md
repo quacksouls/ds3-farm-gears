@@ -11,3 +11,4 @@
 - [Rusted (Gold) Coin](doc/rusted-coin.md)
 - [Symbol of Avarice](doc/symbol-avarice.md)
 - [Crystal Sage's Rapier](doc/crystal-sages-rapier.md)
+- [Mendicant's Staff](doc/mendicants-staff.md)
