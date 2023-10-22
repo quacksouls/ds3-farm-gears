@@ -1,6 +1,6 @@
 {
   "name": "ds3-farm-gears",
-  "version": "0.0.1",
+  "version": "1.0",
   "description": "Equipment for souls & items farming",
   "main": "index.js",
   "scripts": {
