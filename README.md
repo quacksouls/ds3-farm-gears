@@ -1,24 +1,15 @@
-# Project name
+# Farming equipment in Dark Souls III
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Insert introduction
-
-<!-- ====================================================================== -->
-
-## Development
-
-We customized various themes:
-
-<!-- prettier-ignore -->
-Insert list of customized themes
+Tips and strategies to obtain gears necessary for farming souls and items.
 
 <!-- ====================================================================== -->
 
 ## Acknowledgement
 
 <!-- prettier-ignore -->
-- [HonKit](https://github.com/honkit/honkit) is used to build the tutorial.
+- [HonKit](https://github.com/honkit/honkit) is used to build the guide.
 
 <!-- ====================================================================== -->
 
