@@ -9,3 +9,4 @@
 - [Covetous Gold Serpent Ring](doc/gold-serpent-ring.md)
 - [Shield of Want](doc/shield-want.md)
 - [Rusted (Gold) Coin](doc/rusted-coin.md)
+- [Symbol of Avarice](doc/symbol-avarice.md)
